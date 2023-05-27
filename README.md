@@ -5,12 +5,12 @@
 
 ***42 Pisicine Student***
 
-|[🧑🏻‍💻My Pisicine - Click here !]( https://github.com/meloo244/42-Piscine-C )|
+|[🧑🏻‍💻My Pisicine - Click here !]( https://github.com/koodjy/42-Piscine-C )|
 |------------------------------------------------------------|
 
 ***42 Cursus Student***
 
-|[💻 Common Core - Click Here !]( https://github.com/meloo244/CommonCore )|
+|[💻 Common Core - Click Here !]( https://github.com/koodjy/CommonCore )|
 |------------------------------------------------------------|
 
 ***42 Student Tools***
@@ -39,8 +39,6 @@
 
 <sub>The network icon is clickable !</sub>
 
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MelMeloo42)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/425262676470530049)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvyn-marie-235949264/)
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,github,lua)]()
 
