@@ -25,7 +25,7 @@
 
 
 ### 💻 My Discord and Current Activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/1108514906862534686)](https://discord.com/users/1108514906862534686)
+[![Discord Presence](https://lanyard.cnrad.dev/api/425262676470530049)](https://discord.com/users/425262676470530049)
 
 ### 🥀 Currently Learning 
 
@@ -40,7 +40,7 @@
 <sub>The network icon is clickable !</sub>
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MelMeloo42)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1108514906862534686)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/425262676470530049)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvyn-marie-235949264/)
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,github,lua)]()
 
