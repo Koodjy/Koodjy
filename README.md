@@ -5,7 +5,7 @@
 
 ***42 Pisicine Student***
 
-|[🧑🏻‍💻My Pisicine - Click here !]( https://github.com/koodjy/42-Piscine-C )|
+|[🧑🏻‍💻My Pisicine - 🚫 !]( https://github.com/koodjy/42-Piscine-C )|
 |------------------------------------------------------------|
 
 ***42 Cursus Student***
