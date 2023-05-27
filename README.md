@@ -19,7 +19,7 @@
 |------------------------------------------------------------|
 
 ## 🧑🏻‍🎓42 Profile
-[Link my profil]( https://profile.intra.42.fr/users/mmarie )
+[Link my profil]( https://profile.intra.42.fr/users/chbouthe )
 
 [![mmarie's 42 stats](https://badge.mediaplus.ma/starryblue/chbouthe?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
